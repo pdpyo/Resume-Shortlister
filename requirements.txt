@@ -1,0 +1,9 @@
+docx2txt==0.8
+en-core-web-sm
+numpy==1.24.3
+pandas==2.0.2
+pdfminer.six==20221105
+PyMuPDF==1.22.3
+regex==2023.5.5
+scikit-learn==1.2.2
+spacy==3.5.3
